@@ -9,10 +9,10 @@
 Local $nodeColor[6][6]=[ _
         ['Orange','MainNode','255,204,0', '255,204,0','#ffcc00','#ffcc00'], _
 		['Default','Sub1Node','204,204,0', '204,204,0','#99ff99','#009900'], _
-        ['Grey','Collaboration','217,211,157', '217,211,157','#666600','#666600'], _
-		['LBlue','Business Agreement','36,216,255', '36,216,255','#33ffff','#33ffff'], _
-		['DBlue','Divestment/Spinoff','67,60,224', '67,60,224','#0033cc','#0033cc'], _
-		['Green','Aquisition','67,213,89', '67,213,89','#33cc00','#33cc00']]
+        ['Grey','Collaboration','217,211,157', '217,211,157','#d9d39d','#d9d39d'], _
+		['LBlue','Business Agreement','36,216,255', '36,216,255','#24d8ff','#24d8ff'], _
+		['DBlue','Divestment/Spinoff','67,60,224', '67,60,224','#433ce0','#433ce0'], _
+		['Green','Aquisition','67,213,89', '67,213,89','#43d559','#43d559']]
 
 Local $nodeSizes[3]=['90.0','80.0','25.0']
 Local $nodeFontSizes[3]=['25.0','14.0','14.0']
@@ -248,28 +248,28 @@ for $i=1 to $rows
 		$keyDetails2[UBound($keyDetails2)-1][6]=SpecialCharHandler($aArray[$i][$PrimeNatureOfColabColumn])
 
 		if $aArray[$i][$PrimeNatureOfColabColumn]='Collaboration' Then
-			$keyDetails2[UBound($keyDetails2)-1][7]=$nodeColor[1][2]
-			$keyDetails2[UBound($keyDetails2)-1][8]=$nodeColor[1][3]
-			$keyDetails2[UBound($keyDetails2)-1][9]=$nodeColor[1][4]
-			$keyDetails2[UBound($keyDetails2)-1][10]=$nodeColor[1][5]
-
-		ElseIf $aArray[$i][$PrimeNatureOfColabColumn]='Business Agreement' Then
 			$keyDetails2[UBound($keyDetails2)-1][7]=$nodeColor[2][2]
 			$keyDetails2[UBound($keyDetails2)-1][8]=$nodeColor[2][3]
 			$keyDetails2[UBound($keyDetails2)-1][9]=$nodeColor[2][4]
 			$keyDetails2[UBound($keyDetails2)-1][10]=$nodeColor[2][5]
 
-		ElseIf $aArray[$i][$PrimeNatureOfColabColumn]='Divestment/Spinoff' Then
+		ElseIf $aArray[$i][$PrimeNatureOfColabColumn]='Business Agreement' Then
 			$keyDetails2[UBound($keyDetails2)-1][7]=$nodeColor[3][2]
 			$keyDetails2[UBound($keyDetails2)-1][8]=$nodeColor[3][3]
 			$keyDetails2[UBound($keyDetails2)-1][9]=$nodeColor[3][4]
 			$keyDetails2[UBound($keyDetails2)-1][10]=$nodeColor[3][5]
 
-		ElseIf $aArray[$i][$PrimeNatureOfColabColumn]='Acquisition/Equity' Then
+		ElseIf $aArray[$i][$PrimeNatureOfColabColumn]='Divestment/Spinoff' Then
 			$keyDetails2[UBound($keyDetails2)-1][7]=$nodeColor[4][2]
 			$keyDetails2[UBound($keyDetails2)-1][8]=$nodeColor[4][3]
 			$keyDetails2[UBound($keyDetails2)-1][9]=$nodeColor[4][4]
 			$keyDetails2[UBound($keyDetails2)-1][10]=$nodeColor[4][5]
+
+		ElseIf $aArray[$i][$PrimeNatureOfColabColumn]='Acquisition/Equity' Then
+			$keyDetails2[UBound($keyDetails2)-1][7]=$nodeColor[5][2]
+			$keyDetails2[UBound($keyDetails2)-1][8]=$nodeColor[5][3]
+			$keyDetails2[UBound($keyDetails2)-1][9]=$nodeColor[5][4]
+			$keyDetails2[UBound($keyDetails2)-1][10]=$nodeColor[5][5]
 
 		EndIf
 
