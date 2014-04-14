@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="Union" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML"  directed="1">
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2014-03-28 11:30:55</dc:date>
+        <dc:title>Union</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ffffff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="0.7822052925967306"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="341.6669692993164"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="390.6387941837311"/>
+  <att type="boolean" name="NODE_SIZE_LOCKED" value="true"/>
+  <att type="string" name="__layoutAlgorithm" value="grid" cy:hidden="true"/>
+  <node label="node1_453" id="-89">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node1_453"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Fundecitrus"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="234.52845764160156" y="510.216064453125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Fundecitrus" cy:borderLineType="solid"/>
+  </node>
+  <node label="node7" id="-88">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node7"/>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="FMC Corp"/>
+    <att type="string" name="node.labelPosition" value="S,C,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="280.4145812988281" y="621.4956665039062" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="FMC Corp" cy:borderLineType="solid"/>
+  </node>
+  <node label="node6" id="-87">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node6"/>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Plant Implant plc"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="251.33218383789062" y="563.7027587890625" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Plant Implant plc" cy:borderLineType="solid"/>
+  </node>
+  <node label="node5" id="-86">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node5"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Celectis"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="585.5868530273438" y="643.8360595703125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Celectis" cy:borderLineType="solid"/>
+  </node>
+  <node label="node4" id="-85">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node4"/>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="RAGT Semences wheat facility"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="750.14892578125" y="501.0440673828125" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="RAGT Semences wheat facility" cy:borderLineType="solid"/>
+  </node>
+  <node label="node3_000" id="-84">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node3_000"/>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Abbott &amp; Cobb melon &amp; watermelon seed business"/>
+    <att type="string" name="node.labelPosition" value="SE,E,c,-16.00,9.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="649.5274047851562" y="448.8736572265625" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Abbott &amp; Cobb melon &amp; watermelon seed business" cy:borderLineType="solid"/>
+  </node>
+  <node label="node2_544" id="-83">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node2_544"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="KWS Saat"/>
+    <att type="string" name="node.labelPosition" value="N,S,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-48.99554443359375" y="169.71986389160156" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="KWS Saat" cy:borderLineType="solid"/>
+  </node>
+  <node label="node1_016" id="-82">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node1_016"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Mendel Tech"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-119.51971435546875" y="157.3140869140625" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Mendel Tech" cy:borderLineType="solid"/>
+  </node>
+  <node label="node0_737" id="-81">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node0_737"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Mendel Biotechnology"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="374.41314697265625" y="685.57958984375" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Mendel Biotechnology" cy:borderLineType="solid"/>
+  </node>
+  <node label="node3" id="-80">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node3"/>
+    <att type="string" name="node.borderColor" value="0,51,204"/>
+    <att type="string" name="node.fillColor" value="0,51,204"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Rovral &amp; Sprtak Fungicides to FMC Corp"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="453.35693359375" y="507.13507080078125" fill="#0033cc" width="2" outline="#0033cc" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Rovral &amp; Sprtak Fungicides to FMC Corp" cy:borderLineType="solid"/>
+  </node>
+  <node label="node2" id="-79">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node2"/>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Goi&#xe2;nia Investments and Holdings Ltd (GIP)"/>
+    <att type="string" name="node.labelPosition" value="SE,NW,c,-21.00,-4.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="822.3518676757812" y="308.7501525878906" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Goi&#xe2;nia Investments and Holdings Ltd (GIP)" cy:borderLineType="solid"/>
+  </node>
+  <node label="node1" id="-78">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node1"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Stoller Enterprises"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="369.719970703125" y="101.81742858886719" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Stoller Enterprises" cy:borderLineType="solid"/>
+  </node>
+  <node label="node0" id="-77">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node0"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Plant Sensory Systems"/>
+    <att type="string" name="node.labelPosition" value="N,S,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-32.10938262939453" y="618.5486450195312" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Plant Sensory Systems" cy:borderLineType="solid"/>
+  </node>
+  <node label="Monsanto``" id="-37">
+    <att type="string" name="Collaborator" value="Monsanto``"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="Monsanto``"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Monsanto``"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.label" value="Monsanto"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="308.29119873046875" y="64.56385803222656" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Monsanto" cy:borderLineType="solid"/>
+  </node>
+  <node label="RAGT Semences S.A.S" id="-36">
+    <att type="string" name="Collaborator" value="RAGT Semences S.A.S"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="RAGT Semences S.A.S"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="RAGT Semences S.A.S"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="N,S,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="701.374267578125" y="112.10209655761719" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="RAGT Semences S.A.S" cy:borderLineType="solid"/>
+  </node>
+  <node label="Applied Math" id="-39">
+    <att type="string" name="Collaborator" value="Applied Math"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Applied Math"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Applied Math"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="SE,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="822.31103515625" y="695.7472534179688" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Applied Math" cy:borderLineType="solid"/>
+  </node>
+  <node label="DuPont" id="-38">
+    <att type="string" name="Collaborator" value="DuPont"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="DuPont"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="DuPont"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-149.90077209472656" y="260.6557922363281" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="DuPont" cy:borderLineType="solid"/>
+  </node>
+  <node label="KeyGene`" id="-41">
+    <att type="string" name="Collaborator" value="KeyGene`"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="KeyGene`"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="KeyGene`"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="810.5642700195312" y="754.2295532226562" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="KeyGene`" cy:borderLineType="solid"/>
+  </node>
+  <node label="RAGT Semences" id="-40">
+    <att type="string" name="Collaborator" value="RAGT Semences"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="RAGT Semences"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="RAGT Semences"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="805.3224487304688" y="84.84423828125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="RAGT Semences" cy:borderLineType="solid"/>
+  </node>
+  <node label="Fluidigm" id="-42">
+    <att type="string" name="Collaborator" value="Fluidigm"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Fluidigm"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Fluidigm"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="823.380126953125" y="614.2022705078125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Fluidigm" cy:borderLineType="solid"/>
+  </node>
+  <node label="Centro de Tecnologia Canavieira (CTC)" id="-45">
+    <att type="string" name="Collaborator" value="Centro de Tecnologia Canavieira (CTC)"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="Centro de Tecnologia Canavieira (CTC)"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Centro de Tecnologia Canavieira (CTC)"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-135.82948303222656" y="535.8302612304688" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Centro de Tecnologia Canavieira (CTC)" cy:borderLineType="solid"/>
+  </node>
+  <node label="Precision Bioscience`" id="-44">
+    <att type="string" name="Collaborator" value="Precision Bioscience`"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Precision Bioscience`"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Precision Bioscience`"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="803.2833251953125" y="555.7022705078125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Precision Bioscience`" cy:borderLineType="solid"/>
+  </node>
+  <node label="CSIRO" id="-47">
+    <att type="string" name="Collaborator" value="CSIRO"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="CSIRO"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="CSIRO"/>
+    </att>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="66.08612060546875" y="793.6875610351562" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="CSIRO" cy:borderLineType="solid"/>
+  </node>
+  <node label="BASF" id="-46">
+    <att type="string" name="Collaborator" value="BASF"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="BASF"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="BASF"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="W,NE,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="152.27005004882812" y="769.8851318359375" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="BASF" cy:borderLineType="solid"/>
+  </node>
+  <node label="Chinese Oil Crops Research Institute (OCRI)" id="-49">
+    <att type="string" name="Collaborator" value="Chinese Oil Crops Research Institute (OCRI)"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="Chinese Oil Crops Research Institute (OCRI)"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Chinese Oil Crops Research Institute (OCRI)"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-199.47230529785156" y="632.957763671875" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Chinese Oil Crops Research Institute (OCRI)" cy:borderLineType="solid"/>
+  </node>
+  <node label="Evogene1" id="-48">
+    <att type="string" name="Collaborator" value="Evogene1"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Evogene1"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Evogene1"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.label" value="Evogene"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="185.9064483642578" y="713.785888671875" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Evogene" cy:borderLineType="solid"/>
+  </node>
+  <node label="Dow AgroSciences" id="-51">
+    <att type="string" name="Collaborator" value="Dow AgroSciences"/>
+    <att type="string" name="Nature of Collaboration" value="Cross license"/>
+    <att type="string" name="canonicalName" value="Dow AgroSciences"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Dow AgroSciences"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-107.86662292480469" y="346.1676025390625" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Dow AgroSciences" cy:borderLineType="solid"/>
+  </node>
+  <node label="Syngenta`" id="-50">
+    <att type="string" name="Collaborator" value="Syngenta`"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="Syngenta`"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Syngenta`"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="NW,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-150.7940216064453" y="202.7222900390625" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Syngenta`" cy:borderLineType="solid"/>
+  </node>
+  <node label="Syngenta" id="-52">
+    <att type="string" name="Collaborator" value="Syngenta"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Syngenta"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Syngenta"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-133.08197021484375" y="300.84112548828125" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Syngenta" cy:borderLineType="solid"/>
+  </node>
+  <node label="Hornbeck Seed Company" id="-53">
+    <att type="string" name="Collaborator" value="Hornbeck Seed Company"/>
+    <att type="string" name="Nature of Collaboration" value="Acquisition"/>
+    <att type="string" name="canonicalName" value="Hornbeck Seed Company"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Hornbeck Seed Company"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.labelPosition" value="NW,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="635.661376953125" y="116.82612609863281" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Hornbeck Seed Company" cy:borderLineType="solid"/>
+  </node>
+  <node label="EuroSort" id="-54">
+    <att type="string" name="Collaborator" value="EuroSort"/>
+    <att type="string" name="Nature of Collaboration" value="Acquisition"/>
+    <att type="string" name="canonicalName" value="EuroSort"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="EuroSort"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.label" value="EuroSort Breeding program"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="504.593505859375" y="255.93182373046875" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="EuroSort Breeding program" cy:borderLineType="solid"/>
+  </node>
+  <node label="Sort" id="-55">
+    <att type="string" name="Collaborator" value="Sort"/>
+    <att type="string" name="Nature of Collaboration" value="Acquisition"/>
+    <att type="string" name="canonicalName" value="Sort"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Sort"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.label" value="Sort breeding program"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="589.6845092773438" y="161.1102294921875" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Sort breeding program" cy:borderLineType="solid"/>
+  </node>
+  <node label="Univ. of Nebraska-Lincoln" id="-56">
+    <att type="string" name="Collaborator" value="Univ. of Nebraska-Lincoln"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="Univ. of Nebraska-Lincoln"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Univ. of Nebraska-Lincoln"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="556.3343505859375" y="200.2600555419922" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Univ. of Nebraska-Lincoln" cy:borderLineType="solid"/>
+  </node>
+  <node label="Heads Up Plant Protectants Inc" id="-57">
+    <att type="string" name="Collaborator" value="Heads Up Plant Protectants Inc"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Heads Up Plant Protectants Inc"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Heads Up Plant Protectants Inc"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="146.30577087402344" y="174.94715881347656" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Heads Up Plant Protectants Inc" cy:borderLineType="solid"/>
+  </node>
+  <node label="Monsanto" id="-58">
+    <att type="string" name="Collaborator" value="Monsanto"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Monsanto"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Monsanto"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <att type="string" name="node.shape" value="ellipse"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="160.18038940429688" y="112.07080078125" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Monsanto" cy:borderLineType="solid"/>
+  </node>
+  <node label="Ag Chem" id="-1">
+    <att type="string" name="canonicalName" value="Ag Chem"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="349.1871337890625" y="459.6924743652344" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="Ag Chem" cy:borderLineType="solid"/>
+  </node>
+  <node label="Technology" id="-2">
+    <att type="string" name="canonicalName" value="Technology"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="697.87548828125" y="574.6616821289062" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="Technology" cy:borderLineType="solid"/>
+  </node>
+  <node label="Biofuels" id="-3">
+    <att type="string" name="canonicalName" value="Biofuels"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="133.89608764648438" y="394.4883728027344" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="Biofuels" cy:borderLineType="solid"/>
+  </node>
+  <node label="Yield Traits" id="-4">
+    <att type="string" name="canonicalName" value="Yield Traits"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="78.92919921875" y="678.3746337890625" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="Yield Traits" cy:borderLineType="solid"/>
+  </node>
+  <node label="Quality Traits" id="-5">
+    <att type="string" name="canonicalName" value="Quality Traits"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="94.0169677734375" y="471.3175048828125" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="Quality Traits" cy:borderLineType="solid"/>
+  </node>
+  <node label="Ag Traits" id="-6">
+    <att type="string" name="canonicalName" value="Ag Traits"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="7.6260528564453125" y="278.57562255859375" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="Ag Traits" cy:borderLineType="solid"/>
+  </node>
+  <node label="Breeding / Breeding Tech" id="-7">
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="651.84912109375" y="258.80902099609375" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="Breeding / Breeding Tech" cy:borderLineType="solid"/>
+  </node>
+  <node label="Biologicals" id="-8">
+    <att type="string" name="canonicalName" value="Biologicals"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="238.079345703125" y="201.1064910888672" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="Biologicals" cy:borderLineType="solid"/>
+  </node>
+  <node label="Bayer" id="-9">
+    <att type="string" name="canonicalName" value="Bayer"/>
+    <att type="string" name="node.borderColor" value="204,0,0"/>
+    <att type="string" name="node.fillColor" value="255,204,0"/>
+    <att type="string" name="node.fontSize" value="25.0"/>
+    <att type="string" name="node.size" value="90.0"/>
+    <graphics type="ELLIPSE" h="90.0" w="90.0" x="328.2191162109375" y="332.6260986328125" fill="#ffcc00" width="2" outline="#cc0000" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-25" cy:nodeLabel="Bayer" cy:borderLineType="solid"/>
+  </node>
+  <node label="Performance Plants" id="-10">
+    <att type="string" name="Collaborator" value="Performance Plants"/>
+    <att type="string" name="Nature of Collaboration" value="R &amp; D collaboration"/>
+    <att type="string" name="canonicalName" value="Performance Plants"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Performance Plants"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-31.479049682617188" y="734.0339965820312" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Performance Plants" cy:borderLineType="solid"/>
+  </node>
+  <node label="CSIRO, GRDC" id="-15">
+    <att type="string" name="Collaborator" value="CSIRO, GRDC"/>
+    <att type="string" name="Nature of Collaboration" value="R &amp; D collaboration"/>
+    <att type="string" name="canonicalName" value="CSIRO, GRDC"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="CSIRO, GRDC"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="N,S,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-84.55337524414062" y="654.7626342773438" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="CSIRO, GRDC" cy:borderLineType="solid"/>
+  </node>
+  <node label="Arysta LifeScience" id="-14">
+    <att type="string" name="Collaborator" value="Arysta LifeScience"/>
+    <att type="string" name="Nature of Collaboration" value="R &amp; D collaboration"/>
+    <att type="string" name="canonicalName" value="Arysta LifeScience"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Arysta LifeScience"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="325.08203125" y="652.0516967773438" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Arysta LifeScience" cy:borderLineType="solid"/>
+  </node>
+  <node label="The Two Blades Foundation" id="-13">
+    <att type="string" name="Collaborator" value="The Two Blades Foundation"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="The Two Blades Foundation"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="The Two Blades Foundation"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="620.3994140625" y="709.5355834960938" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="The Two Blades Foundation" cy:borderLineType="solid"/>
+  </node>
+  <node label="KWS SAAT AG" id="-12">
+    <att type="string" name="Collaborator" value="KWS SAAT AG"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="KWS SAAT AG"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="KWS SAAT AG"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="E,NW,c,17.00,-9.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="748.046142578125" y="431.69140625" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="KWS SAAT AG" cy:borderLineType="solid"/>
+  </node>
+  <node label="AgraQuest```" id="-18">
+    <att type="string" name="Collaborator" value="AgraQuest```"/>
+    <att type="string" name="Nature of Collaboration" value="Acquisition"/>
+    <att type="string" name="canonicalName" value="AgraQuest```"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="AgraQuest```"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.label" value="AgraQuest"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="367.75982666015625" y="155.83570861816406" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="AgraQuest" cy:borderLineType="solid"/>
+  </node>
+  <node label="AgroGreen&apos;s Biologicals Business" id="-17">
+    <att type="string" name="Collaborator" value="AgroGreen&apos;s Biologicals Business"/>
+    <att type="string" name="Nature of Collaboration" value="Acquisition"/>
+    <att type="string" name="canonicalName" value="AgroGreen&apos;s Biologicals Business"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="AgroGreen&apos;s Biologicals Business"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="172.3366241455078" y="69.32609558105469" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="AgroGreen&apos;s Biologicals Business" cy:borderLineType="solid"/>
+  </node>
+  <node label="Exosect&apos;s Biologicals Business" id="-16">
+    <att type="string" name="Collaborator" value="Exosect&apos;s Biologicals Business"/>
+    <att type="string" name="Nature of Collaboration" value="Acquisition"/>
+    <att type="string" name="canonicalName" value="Exosect&apos;s Biologicals Business"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Exosect&apos;s Biologicals Business"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="158.697998046875" y="253.10089111328125" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Exosect&apos;s Biologicals Business" cy:borderLineType="solid"/>
+  </node>
+  <node label="ProSoy Genetics" id="-22">
+    <att type="string" name="Collaborator" value="ProSoy Genetics"/>
+    <att type="string" name="Nature of Collaboration" value="Acquisition"/>
+    <att type="string" name="canonicalName" value="ProSoy Genetics"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="ProSoy Genetics"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.label" value="Prosoy Genetics germplasm assets"/>
+    <att type="string" name="node.labelPosition" value="S,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="995.1827392578125" y="537.4461669921875" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Prosoy Genetics germplasm assets" cy:borderLineType="solid"/>
+  </node>
+  <node label="Population Genetics" id="-23">
+    <att type="string" name="Collaborator" value="Population Genetics"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Population Genetics"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Population Genetics"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="NE,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="802.7808837890625" y="45.66443634033203" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Population Genetics" cy:borderLineType="solid"/>
+  </node>
+  <node label="Texas AgriLife Research" id="-20">
+    <att type="string" name="Collaborator" value="Texas AgriLife Research"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="Texas AgriLife Research"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Texas AgriLife Research"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="SE,N,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="682.0900268554688" y="468.75958251953125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Texas AgriLife Research" cy:borderLineType="solid"/>
+  </node>
+  <node label="Q-Biologicals" id="-21">
+    <att type="string" name="Collaborator" value="Q-Biologicals"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="Q-Biologicals"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Q-Biologicals"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="W,NE,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="622.3689575195312" y="755.8889770507812" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Q-Biologicals" cy:borderLineType="solid"/>
+  </node>
+  <node label="South Dakota State Univ" id="-26">
+    <att type="string" name="Collaborator" value="South Dakota State Univ"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="South Dakota State Univ"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="South Dakota State Univ"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="776.0881958007812" y="191.1679229736328" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="South Dakota State Univ" cy:borderLineType="solid"/>
+  </node>
+  <node label="Interfarm UK Ltd" id="-27">
+    <att type="string" name="Collaborator" value="Interfarm UK Ltd"/>
+    <att type="string" name="Nature of Collaboration" value="Distribution agreement"/>
+    <att type="string" name="canonicalName" value="Interfarm UK Ltd"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Interfarm UK Ltd"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="417.275146484375" y="638.080322265625" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Interfarm UK Ltd" cy:borderLineType="solid"/>
+  </node>
+  <node label="Caprotec bioanalytics GmbH " id="-24">
+    <att type="string" name="canonicalName" value="Caprotec bioanalytics GmbH "/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.labelPosition" value="SW,N,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="741.0458374023438" y="741.540283203125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Caprotec bioanalytics GmbH " cy:borderLineType="solid"/>
+  </node>
+  <node label="Rosetta Green" id="-25">
+    <att type="string" name="Collaborator" value="Rosetta Green"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="Rosetta Green"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Rosetta Green"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-68.92369079589844" y="686.055908203125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Rosetta Green" cy:borderLineType="solid"/>
+  </node>
+  <node label="Koppert Biological Systems" id="-30">
+    <att type="string" name="Collaborator" value="Koppert Biological Systems"/>
+    <att type="string" name="Nature of Collaboration" value="Distribution agreement"/>
+    <att type="string" name="canonicalName" value="Koppert Biological Systems"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Koppert Biological Systems"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="N,S,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="254.40133666992188" y="70.83670043945312" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Koppert Biological Systems" cy:borderLineType="solid"/>
+  </node>
+  <node label="NARDI, Romania" id="-31">
+    <att type="string" name="Collaborator" value="NARDI, Romania"/>
+    <att type="string" name="Nature of Collaboration" value="In-license"/>
+    <att type="string" name="canonicalName" value="NARDI, Romania"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="NARDI, Romania"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="783.8641967773438" y="147.79930114746094" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="NARDI, Romania" cy:borderLineType="solid"/>
+  </node>
+  <node label="VIB-U Gent" id="-34">
+    <att type="string" name="Collaborator" value="VIB-U Gent"/>
+    <att type="string" name="Nature of Collaboration" value="Co-Development"/>
+    <att type="string" name="canonicalName" value="VIB-U Gent"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="VIB-U Gent"/>
+    </att>
+    <att type="string" name="node.labelPosition" value="W,E,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="7.568227767944336" y="762.3430786132812" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="VIB-U Gent" cy:borderLineType="solid"/>
+  </node>
+  <node label="Chemtura AgroSolutions" id="-35">
+    <att type="string" name="Collaborator" value="Chemtura AgroSolutions"/>
+    <att type="string" name="Nature of Collaboration" value="Distribution agreement"/>
+    <att type="string" name="canonicalName" value="Chemtura AgroSolutions"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Chemtura AgroSolutions"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="456.19805908203125" y="565.2327880859375" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Chemtura AgroSolutions" cy:borderLineType="solid"/>
+  </node>
+  <node label="Raps GbR" id="-32">
+    <att type="string" name="Collaborator" value="Raps GbR"/>
+    <att type="string" name="Nature of Collaboration" value="Acquisition"/>
+    <att type="string" name="canonicalName" value="Raps GbR"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Raps GbR"/>
+    </att>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.label" value="Raps GbR Rapseed Business"/>
+    <att type="string" name="node.labelPosition" value="E,NW,c,22.00,-11.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="829.6338500976562" y="268.54571533203125" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Raps GbR Rapseed Business" cy:borderLineType="solid"/>
+  </node>
+  <node label="Fazenda Ana Paula" id="-33">
+    <att type="string" name="Collaborator" value="Fazenda Ana Paula"/>
+    <att type="string" name="Nature of Collaboration" value="Out-license"/>
+    <att type="string" name="canonicalName" value="Fazenda Ana Paula"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="Fazenda Ana Paula"/>
+    </att>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="782.869384765625" y="231.72589111328125" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Fazenda Ana Paula" cy:borderLineType="solid"/>
+  </node>
+  <node label="node0_769" id="-76">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node0_769"/>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Evogene"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="192.05050659179688" y="652.130859375" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Evogene" cy:borderLineType="solid"/>
+  </node>
+  <node label="node0_426" id="-75">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node0_426"/>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Monsanto"/>
+    <att type="string" name="node.labelPosition" value="NW,W,c,19.00,-2.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-3.3503780364990234" y="116.11883544921875" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Monsanto" cy:borderLineType="solid"/>
+  </node>
+  <node label="node1_408" id="-74">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node1_408"/>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Prophyta"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="353.99017333984375" y="219.9497833251953" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Prophyta" cy:borderLineType="solid"/>
+  </node>
+  <node label="node2_364" id="-73">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node2_364"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Biotrigo Genetica"/>
+    <att type="string" name="node.labelPosition" value="N,NE,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="593.0278930664062" y="397.414306640625" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Biotrigo Genetica" cy:borderLineType="solid"/>
+  </node>
+  <node label="node3_061" id="-72">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node3_061"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Nature Source Genetics"/>
+    <att type="string" name="node.labelPosition" value="W,NE,c,15.00,-11.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="514.58984375" y="379.7148132324219" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Nature Source Genetics" cy:borderLineType="solid"/>
+  </node>
+  <node label="node4_550" id="-71">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node4_550"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Caprotec"/>
+    <att type="string" name="node.labelPosition" value="S,N,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="541.4251098632812" y="605.6074829101562" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Caprotec" cy:borderLineType="solid"/>
+  </node>
+  <node label="node5_887" id="-70">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node5_887"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Keygene"/>
+    <att type="string" name="node.labelPosition" value="C,NE,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="585.924072265625" y="562.4570922851562" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Keygene" cy:borderLineType="solid"/>
+  </node>
+  <node label="node8" id="-69">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node8"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="KeyGene"/>
+    <att type="string" name="node.labelPosition" value="N,S,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="35.754791259765625" y="575.9415893554688" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="KeyGene" cy:borderLineType="solid"/>
+  </node>
+  <node label="node9" id="-68">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node9"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Kansas State Univ"/>
+    <att type="string" name="node.labelPosition" value="NW,W,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="99.13212585449219" y="551.6694946289062" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Kansas State Univ" cy:borderLineType="solid"/>
+  </node>
+  <node label="node1_239" id="-67">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node1_239"/>
+    <att type="string" name="node.borderColor" value="51,204,0"/>
+    <att type="string" name="node.fillColor" value="51,204,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="FN Semillas"/>
+    <att type="string" name="node.labelPosition" value="S,E,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="520.45947265625" y="340.3734130859375" fill="#33cc00" width="2" outline="#33cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="FN Semillas" cy:borderLineType="solid"/>
+  </node>
+  <node label="node0_525" id="-66">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node0_525"/>
+    <att type="string" name="node.label" value="IFS"/>
+    <att type="string" name="node.size" value="80.0"/>
+    <graphics type="ELLIPSE" h="80.0" w="80.0" x="-29.279266357421875" y="364.5514221191406" fill="#99ff99" width="2" outline="#009900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-13" cy:nodeLabel="IFS" cy:borderLineType="solid"/>
+  </node>
+  <node label="node1_346" id="-65">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node1_346"/>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.label" value="CITIC"/>
+    <att type="string" name="node.labelPosition" value="S,NE,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="678.2545166015625" y="746.3145751953125" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-13" cy:nodeLabel="CITIC" cy:borderLineType="solid"/>
+  </node>
+  <node label="node2_742" id="-64">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node2_742"/>
+    <att type="string" name="node.borderColor" value="51,255,255"/>
+    <att type="string" name="node.fillColor" value="51,255,255"/>
+    <att type="string" name="node.fontSize" value="14.0"/>
+    <att type="string" name="node.label" value="IFC &amp; Austria"/>
+    <att type="string" name="node.labelPosition" value="NW,S,c,0.00,0.00"/>
+    <att type="string" name="node.labelWidth" value="20.0"/>
+    <att type="string" name="node.size" value="30.0"/>
+    <graphics type="ELLIPSE" h="30.0" w="30.0" x="-150.1708221435547" y="444.7218322753906" fill="#33ffff" width="2" outline="#33ffff" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-14" cy:nodeLabel="IFC &amp; Austria" cy:borderLineType="solid"/>
+  </node>
+  <node label="node0_434" id="-63">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node0_434"/>
+    <att type="string" name="node.borderColor" value="102,204,0"/>
+    <att type="string" name="node.fillColor" value="102,204,0"/>
+    <att type="string" name="node.fontSize" value="16.0"/>
+    <att type="string" name="node.label" value="Certain assets from Desnagrain"/>
+    <att type="string" name="node.labelPosition" value="C,E,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="469.85333251953125" y="316.0228271484375" fill="#66cc00" width="2" outline="#66cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-16" cy:nodeLabel="Certain assets from Desnagrain" cy:borderLineType="solid"/>
+  </node>
+  <node label="node1_473" id="-62">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node1_473"/>
+    <att type="string" name="node.borderColor" value="153,153,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Cellectis"/>
+    <att type="string" name="node.labelPosition" value="E,W,c,0.00,0.00"/>
+    <att type="string" name="node.shape" value="ellipse"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="819.1629638671875" y="650.8006591796875" fill="#666600" width="2" outline="#999900" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Cellectis" cy:borderLineType="solid"/>
+  </node>
+  <node label="node2_493" id="-61">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node2_493"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="GreenLight BioSciences"/>
+    <att type="string" name="node.labelPosition" value="E,NW,c,-11.00,12.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="902.261474609375" y="586.8788452148438" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="GreenLight BioSciences" cy:borderLineType="solid"/>
+  </node>
+  <node label="node3_523" id="-60">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node3_523"/>
+    <att type="string" name="node.borderColor" value="102,204,0"/>
+    <att type="string" name="node.fillColor" value="102,204,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="Biagro Group"/>
+    <att type="string" name="node.labelPosition" value="N,S,c,0.00,0.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="448.41644287109375" y="467.98431396484375" fill="#66cc00" width="2" outline="#66cc00" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="Biagro Group" cy:borderLineType="solid"/>
+  </node>
+  <node label="node4_625" id="-59">
+    <att type="string" name="NODE_TYPE" value="DefaultNode"/>
+    <att type="string" name="canonicalName" value="node4_625"/>
+    <att type="string" name="node.borderColor" value="102,102,0"/>
+    <att type="string" name="node.fillColor" value="102,102,0"/>
+    <att type="string" name="node.fontSize" value="15.0"/>
+    <att type="string" name="node.label" value="John Deere"/>
+    <att type="string" name="node.labelPosition" value="C,E,c,-19.00,8.00"/>
+    <att type="string" name="node.size" value="25.0"/>
+    <graphics type="ELLIPSE" h="25.0" w="25.0" x="-100.0329360961914" y="465.4273681640625" fill="#666600" width="2" outline="#666600" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-15" cy:nodeLabel="John Deere" cy:borderLineType="solid"/>
+  </node>
+  <edge label="node1_453 (DefaultEdge) Ag Chem" source="-89" target="-1">
+    <att type="string" name="canonicalName" value="node1_453 (DefaultEdge) Ag Chem"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DefaultEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node3 (DefaultEdge) Ag Chem" source="-80" target="-1">
+    <att type="string" name="canonicalName" value="node3 (DefaultEdge) Ag Chem"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2011"/>
+    <att type="string" name="interaction" value="DefaultEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node2 (DefaultEdge) Breeding / Breeding Tech" source="-79" target="-7">
+    <att type="string" name="canonicalName" value="node2 (DefaultEdge) Breeding / Breeding Tech"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2011"/>
+    <att type="string" name="interaction" value="DefaultEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node1 (DefaultEdge) Biologicals" source="-78" target="-8">
+    <att type="string" name="canonicalName" value="node1 (DefaultEdge) Biologicals"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2011"/>
+    <att type="string" name="interaction" value="DefaultEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node0 (DefaultEdge) Yield Traits" source="-77" target="-4">
+    <att type="string" name="canonicalName" value="node0 (DefaultEdge) Yield Traits"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2012"/>
+    <att type="string" name="interaction" value="DefaultEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Chem (DirectedEdge) node7" source="-1" target="-88">
+    <att type="string" name="canonicalName" value="Ag Chem (DirectedEdge) node7"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Chem (DirectedEdge) node6" source="-1" target="-87">
+    <att type="string" name="canonicalName" value="Ag Chem (DirectedEdge) node6"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Chem (DirectedEdge) node0_737" source="-1" target="-81">
+    <att type="string" name="canonicalName" value="Ag Chem (DirectedEdge) node0_737"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2012"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Chem (pp) Chemtura AgroSolutions" source="-1" target="-35">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Ag Chem (pp) Chemtura AgroSolutions"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Chem (pp) Arysta LifeScience" source="-1" target="-14">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Ag Chem (pp) Arysta LifeScience"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Chem (pp) Interfarm UK Ltd" source="-1" target="-27">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Ag Chem (pp) Interfarm UK Ltd"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Chem (DirectedEdge) node3_523" source="-1" target="-60">
+    <att type="string" name="canonicalName" value="Ag Chem (DirectedEdge) node3_523"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2014"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2014" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (DirectedEdge) node5" source="-2" target="-86">
+    <att type="string" name="canonicalName" value="Technology (DirectedEdge) node5"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2012"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (pp) Applied Math" source="-2" target="-39">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Technology (pp) Applied Math"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (pp) Fluidigm" source="-2" target="-42">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Technology (pp) Fluidigm"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (pp) KeyGene`" source="-2" target="-41">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Technology (pp) KeyGene`"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (pp) Precision Bioscience`" source="-2" target="-44">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Technology (pp) Precision Bioscience`"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (pp) The Two Blades Foundation" source="-2" target="-13">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Technology (pp) The Two Blades Foundation"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (pp) Q-Biologicals" source="-2" target="-21">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Technology (pp) Q-Biologicals"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (pp) Caprotec bioanalytics GmbH " source="-2" target="-24">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Technology (pp) Caprotec bioanalytics GmbH "/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (DirectedEdge) node5_887" source="-2" target="-70">
+    <att type="string" name="canonicalName" value="Technology (DirectedEdge) node5_887"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (DirectedEdge) node4_550" source="-2" target="-71">
+    <att type="string" name="canonicalName" value="Technology (DirectedEdge) node4_550"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (DirectedEdge) node1_473" source="-2" target="-62">
+    <att type="string" name="canonicalName" value="Technology (DirectedEdge) node1_473"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2014"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2014" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Technology (DirectedEdge) node2_493" source="-2" target="-61">
+    <att type="string" name="canonicalName" value="Technology (DirectedEdge) node2_493"/>
+    <att type="string" name="edge.fontSize" value="16.0"/>
+    <att type="string" name="edge.label" value="2014"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-16" cy:edgeLabel="2014" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biofuels (pp) Centro de Tecnologia Canavieira (CTC)" source="-3" target="-45">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Biofuels (pp) Centro de Tecnologia Canavieira (CTC)"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Yield Traits (pp) BASF" source="-4" target="-46">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Yield Traits (pp) BASF"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Yield Traits (pp) Evogene1" source="-4" target="-48">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Yield Traits (pp) Evogene1"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Yield Traits (pp) CSIRO" source="-4" target="-47">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Yield Traits (pp) CSIRO"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Yield Traits (pp) Performance Plants" source="-4" target="-10">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Yield Traits (pp) Performance Plants"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Yield Traits (pp) CSIRO, GRDC" source="-4" target="-15">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Yield Traits (pp) CSIRO, GRDC"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Yield Traits (pp) Rosetta Green" source="-4" target="-25">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Yield Traits (pp) Rosetta Green"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Yield Traits (pp) VIB-U Gent" source="-4" target="-34">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Yield Traits (pp) VIB-U Gent"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Quality Traits (pp) Chinese Oil Crops Research Institute (OCRI)" source="-5" target="-49">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Quality Traits (pp) Chinese Oil Crops Research Institute (OCRI)"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Traits (DirectedEdge) node2_544" source="-6" target="-83">
+    <att type="string" name="canonicalName" value="Ag Traits (DirectedEdge) node2_544"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2012"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Traits (DirectedEdge) node1_016" source="-6" target="-82">
+    <att type="string" name="canonicalName" value="Ag Traits (DirectedEdge) node1_016"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2012"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Traits (pp) DuPont" source="-6" target="-38">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Ag Traits (pp) DuPont"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Traits (pp) Syngenta`" source="-6" target="-50">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Ag Traits (pp) Syngenta`"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Traits (pp) Dow AgroSciences" source="-6" target="-51">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Ag Traits (pp) Dow AgroSciences"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Traits (pp) Syngenta" source="-6" target="-52">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Ag Traits (pp) Syngenta"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Ag Traits (DirectedEdge) node0_426" source="-6" target="-75">
+    <att type="string" name="canonicalName" value="Ag Traits (DirectedEdge) node0_426"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (DirectedEdge) node4" source="-7" target="-85">
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (DirectedEdge) node4"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2012"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (DirectedEdge) node3_000" source="-7" target="-84">
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (DirectedEdge) node3_000"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2012"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) RAGT Semences S.A.S" source="-7" target="-36">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) RAGT Semences S.A.S"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) RAGT Semences" source="-7" target="-40">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) RAGT Semences"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) Hornbeck Seed Company" source="-7" target="-53">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) Hornbeck Seed Company"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) EuroSort" source="-7" target="-54">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) EuroSort"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) Sort" source="-7" target="-55">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) Sort"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) Univ. of Nebraska-Lincoln" source="-7" target="-56">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) Univ. of Nebraska-Lincoln"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) KWS SAAT AG" source="-7" target="-12">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) KWS SAAT AG"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) ProSoy Genetics" source="-7" target="-22">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) ProSoy Genetics"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) Texas AgriLife Research" source="-7" target="-20">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) Texas AgriLife Research"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) South Dakota State Univ" source="-7" target="-26">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) South Dakota State Univ"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) Population Genetics" source="-7" target="-23">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) Population Genetics"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) Fazenda Ana Paula" source="-7" target="-33">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) Fazenda Ana Paula"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) NARDI, Romania" source="-7" target="-31">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) NARDI, Romania"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (pp) Raps GbR" source="-7" target="-32">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (pp) Raps GbR"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (DirectedEdge) node2_364" source="-7" target="-73">
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (DirectedEdge) node2_364"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Breeding / Breeding Tech (DirectedEdge) node3_061" source="-7" target="-72">
+    <att type="string" name="canonicalName" value="Breeding / Breeding Tech (DirectedEdge) node3_061"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biologicals (pp) Monsanto``" source="-8" target="-37">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Biologicals (pp) Monsanto``"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biologicals (pp) Heads Up Plant Protectants Inc" source="-8" target="-57">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Biologicals (pp) Heads Up Plant Protectants Inc"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biologicals (pp) Monsanto" source="-8" target="-58">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Biologicals (pp) Monsanto"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biologicals (pp) AgraQuest```" source="-8" target="-18">
+    <att type="integer" name="Year" value="2012"/>
+    <att type="string" name="canonicalName" value="Biologicals (pp) AgraQuest```"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2012" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biologicals (pp) AgroGreen&apos;s Biologicals Business" source="-8" target="-17">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Biologicals (pp) AgroGreen&apos;s Biologicals Business"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biologicals (pp) Exosect&apos;s Biologicals Business" source="-8" target="-16">
+    <att type="integer" name="Year" value="2010"/>
+    <att type="string" name="canonicalName" value="Biologicals (pp) Exosect&apos;s Biologicals Business"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biologicals (pp) Koppert Biological Systems" source="-8" target="-30">
+    <att type="integer" name="Year" value="2011"/>
+    <att type="string" name="canonicalName" value="Biologicals (pp) Koppert Biological Systems"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2011" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Biologicals (DirectedEdge) node1_408" source="-8" target="-74">
+    <att type="string" name="canonicalName" value="Biologicals (DirectedEdge) node1_408"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Bayer (pp) Ag Chem" source="-9" target="-1">
+    <att type="string" name="canonicalName" value="Bayer (pp) Ag Chem"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Bayer (pp) Technology" source="-9" target="-2">
+    <att type="string" name="canonicalName" value="Bayer (pp) Technology"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Bayer (pp) Biofuels" source="-9" target="-3">
+    <att type="string" name="canonicalName" value="Bayer (pp) Biofuels"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Bayer (pp) Yield Traits" source="-9" target="-4">
+    <att type="string" name="canonicalName" value="Bayer (pp) Yield Traits"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Bayer (pp) Quality Traits" source="-9" target="-5">
+    <att type="string" name="canonicalName" value="Bayer (pp) Quality Traits"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Bayer (pp) Ag Traits" source="-9" target="-6">
+    <att type="string" name="canonicalName" value="Bayer (pp) Ag Traits"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Bayer (pp) Breeding / Breeding Tech" source="-9" target="-7">
+    <att type="string" name="canonicalName" value="Bayer (pp) Breeding / Breeding Tech"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="Bayer (pp) Biologicals" source="-9" target="-8">
+    <att type="string" name="canonicalName" value="Bayer (pp) Biologicals"/>
+    <att type="string" name="interaction" value="pp" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node0_769 (DefaultEdge) Yield Traits" source="-76" target="-4">
+    <att type="string" name="canonicalName" value="node0_769 (DefaultEdge) Yield Traits"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2010"/>
+    <att type="string" name="interaction" value="DefaultEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2010" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node8 (DirectedEdge) Yield Traits" source="-69" target="-4">
+    <att type="string" name="canonicalName" value="node8 (DirectedEdge) Yield Traits"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node9 (DirectedEdge) Yield Traits" source="-68" target="-4">
+    <att type="string" name="canonicalName" value="node9 (DirectedEdge) Yield Traits"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node1_239 (DefaultEdge) Breeding / Breeding Tech" source="-67" target="-7">
+    <att type="string" name="canonicalName" value="node1_239 (DefaultEdge) Breeding / Breeding Tech"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DefaultEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node0_525 (DirectedEdge) Bayer" source="-66" target="-9">
+    <att type="string" name="canonicalName" value="node0_525 (DirectedEdge) Bayer"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node0_525 (DirectedEdge) node2_742" source="-66" target="-64">
+    <att type="string" name="canonicalName" value="node0_525 (DirectedEdge) node2_742"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node0_525 (DirectedEdge) node4_625" source="-66" target="-59">
+    <att type="string" name="canonicalName" value="node0_525 (DirectedEdge) node4_625"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2014"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2014" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node1_346 (DirectedEdge) Technology" source="-65" target="-2">
+    <att type="string" name="canonicalName" value="node1_346 (DirectedEdge) Technology"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="node0_434 (DirectedEdge) Breeding / Breeding Tech" source="-63" target="-7">
+    <att type="string" name="canonicalName" value="node0_434 (DirectedEdge) Breeding / Breeding Tech"/>
+    <att type="string" name="edge.fontSize" value="14.0"/>
+    <att type="string" name="edge.label" value="2013"/>
+    <att type="string" name="interaction" value="DirectedEdge" cy:editable="false"/>
+    <graphics width="2" fill="#333333" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-14" cy:edgeLabel="2013" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+</graph>

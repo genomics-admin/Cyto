@@ -1,0 +1,2510 @@
+
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.1.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ ],
+    "shared_name" : "Union",
+    "SUID" : 322,
+    "name" : "Union"
+  },
+"elements" : {
+    "nodes" : [ {
+
+	"data" : {
+        "id" : "1",
+        "cytoscape_alias_list" : [ ],
+        "node_fillColor" : "255,204,0",
+        "SUID" : "1",
+        "node_size" : "90.0",
+        "node_fontSize" : "25.0",
+        "node_borderColor" : "204,0,0",
+        "selected" : false,
+        "canonicalName" : "Bayer",
+        "name" : "Bayer",
+        "shared_name" : "Bayer"
+	}
+},{
+	"data" : {
+        "id" : "2",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "2",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Biologicals",
+        "name" : "Biologicals",
+        "shared_name" : "Biologicals"
+	}
+},{
+	"data" : {
+        "id" : "3",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "3",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Yield Traits",
+        "name" : "Yield Traits",
+        "shared_name" : "Yield Traits"
+	}
+},{
+	"data" : {
+        "id" : "4",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "4",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Biofuels",
+        "name" : "Biofuels",
+        "shared_name" : "Biofuels"
+	}
+},{
+	"data" : {
+        "id" : "5",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "5",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Quality Traits",
+        "name" : "Quality Traits",
+        "shared_name" : "Quality Traits"
+	}
+},{
+	"data" : {
+        "id" : "6",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "6",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Ag Traits",
+        "name" : "Ag Traits",
+        "shared_name" : "Ag Traits"
+	}
+},{
+	"data" : {
+        "id" : "7",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "7",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Breeding / Breeding Tech",
+        "name" : "Breeding / Breeding Tech",
+        "shared_name" : "Breeding / Breeding Tech"
+	}
+},{
+	"data" : {
+        "id" : "8",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "8",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Enabling Tech",
+        "name" : "Enabling Tech",
+        "shared_name" : "Enabling Tech"
+	}
+},{
+	"data" : {
+        "id" : "9",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "9",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Ag Chem",
+        "name" : "Ag Chem",
+        "shared_name" : "Ag Chem"
+	}
+},{
+	"data" : {
+        "id" : "10",
+        "cytoscape_alias_list" : [  ],
+        "SUID" : "10",
+        "node_size" : "80.0",
+        "node_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "IFS",
+        "name" : "IFS",
+        "shared_name" : "IFS"
+	}
+},{
+	"data" : {
+        "id" : "187",
+        "cytoscape_alias_list" : [  "AgroGreen's Biologicals Business" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "AgroGreen's Biologicals Business",
+        "SUID" : "187",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "AgroGreen's Biologicals Business",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "AgroGreen's Biologicals Business",
+        "shared_name" : "AgroGreen's Biologicals Business"
+	}
+},{
+	"data" : {
+        "id" : "197",
+        "cytoscape_alias_list" : [  "BASF Plant Science" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "BASF Plant Science",
+        "SUID" : "197",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "BASF Plant Science",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "BASF Plant Science",
+        "shared_name" : "BASF Plant Science"
+	}
+},{
+	"data" : {
+        "id" : "207",
+        "cytoscape_alias_list" : [  "Centro de Tecnologia Canavieira (CTC)" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Centro de Tecnologia Canavieira (CTC)",
+        "SUID" : "207",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Centro de Tecnologia Canavieira (CTC)",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Centro de Tecnologia Canavieira (CTC)",
+        "shared_name" : "Centro de Tecnologia Canavieira (CTC)"
+	}
+},{
+	"data" : {
+        "id" : "217",
+        "cytoscape_alias_list" : [  "Chinese Oil Crops Research Institute (OCRI)" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Chinese Oil Crops Research Institute (OCRI)",
+        "SUID" : "217",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Chinese Oil Crops Research Institute (OCRI)",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Chinese Oil Crops Research Institute (OCRI)",
+        "shared_name" : "Chinese Oil Crops Research Institute (OCRI)"
+	}
+},{
+	"data" : {
+        "id" : "227",
+        "cytoscape_alias_list" : [  "Chinese Oil Crops Research Institute (OCRI)" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Chinese Oil Crops Research Institute (OCRI)",
+        "SUID" : "227",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Chinese Oil Crops Research Institute (OCRI)",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Chinese Oil Crops Research Institute (OCRI)",
+        "shared_name" : "Chinese Oil Crops Research Institute (OCRI)"
+	}
+},{
+	"data" : {
+        "id" : "237",
+        "cytoscape_alias_list" : [  "CSIRO" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "CSIRO",
+        "SUID" : "237",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "CSIRO",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "CSIRO",
+        "shared_name" : "CSIRO"
+	}
+},{
+	"data" : {
+        "id" : "247",
+        "cytoscape_alias_list" : [  "Dow AgroSciences" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Cross license",
+        "Collaborator" : "Dow AgroSciences",
+        "SUID" : "247",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Dow AgroSciences",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Dow AgroSciences",
+        "shared_name" : "Dow AgroSciences"
+	}
+},{
+	"data" : {
+        "id" : "257",
+        "cytoscape_alias_list" : [  "EuroSort" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition of wheat breeding program",
+        "Collaborator" : "EuroSort",
+        "SUID" : "257",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "EuroSort",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "EuroSort",
+        "shared_name" : "EuroSort"
+	}
+},{
+	"data" : {
+        "id" : "267",
+        "cytoscape_alias_list" : [  "Evogene" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Evogene",
+        "SUID" : "267",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Evogene",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Evogene",
+        "shared_name" : "Evogene"
+	}
+},{
+	"data" : {
+        "id" : "277",
+        "cytoscape_alias_list" : [  "Evogene" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Equity investment",
+        "Collaborator" : "Evogene",
+        "SUID" : "277",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Evogene",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Evogene",
+        "shared_name" : "Evogene"
+	}
+},{
+	"data" : {
+        "id" : "287",
+        "cytoscape_alias_list" : [  "Exosect's Biologicals Business" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "Exosect's Biologicals Business",
+        "SUID" : "287",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Exosect's Biologicals Business",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Exosect's Biologicals Business",
+        "shared_name" : "Exosect's Biologicals Business"
+	}
+},{
+	"data" : {
+        "id" : "297",
+        "cytoscape_alias_list" : [  "Fluidigm" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Fluidigm",
+        "SUID" : "297",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Fluidigm",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Fluidigm",
+        "shared_name" : "Fluidigm"
+	}
+},{
+	"data" : {
+        "id" : "307",
+        "cytoscape_alias_list" : [  "Heads Up Plant Protectants Inc" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Heads Up Plant Protectants Inc",
+        "SUID" : "307",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Heads Up Plant Protectants Inc",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Heads Up Plant Protectants Inc",
+        "shared_name" : "Heads Up Plant Protectants Inc"
+	}
+},{
+	"data" : {
+        "id" : "317",
+        "cytoscape_alias_list" : [  "Monsanto" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Monsanto",
+        "SUID" : "317",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Monsanto",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Monsanto",
+        "shared_name" : "Monsanto"
+	}
+},{
+	"data" : {
+        "id" : "327",
+        "cytoscape_alias_list" : [  "Precision Bioscience" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Precision Bioscience",
+        "SUID" : "327",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Precision Bioscience",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Precision Bioscience",
+        "shared_name" : "Precision Bioscience"
+	}
+},{
+	"data" : {
+        "id" : "337",
+        "cytoscape_alias_list" : [  "Sort" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition of wheat breeding program",
+        "Collaborator" : "Sort",
+        "SUID" : "337",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Sort",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Sort",
+        "shared_name" : "Sort"
+	}
+},{
+	"data" : {
+        "id" : "347",
+        "cytoscape_alias_list" : [  "Syngenta" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Syngenta",
+        "SUID" : "347",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Syngenta",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Syngenta",
+        "shared_name" : "Syngenta"
+	}
+},{
+	"data" : {
+        "id" : "357",
+        "cytoscape_alias_list" : [  "Univ. of Nebraska-Lincoln" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Univ. of Nebraska-Lincoln",
+        "SUID" : "357",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Univ. of Nebraska-Lincoln",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Univ. of Nebraska-Lincoln",
+        "shared_name" : "Univ. of Nebraska-Lincoln"
+	}
+},{
+	"data" : {
+        "id" : "432",
+        "cytoscape_alias_list" : [  "AgraQuest" ],
+        "node_fillColor" : "",
+        "Nature_of_Collaboration" : "Sales and Marketing agreement",
+        "Collaborator" : "AgraQuest",
+        "SUID" : "432",
+        "node_borderColor" : "",
+        "selected" : false,
+        "canonicalName" : "AgraQuest",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "AgraQuest",
+        "shared_name" : "AgraQuest"
+	}
+},{
+	"data" : {
+        "id" : "442",
+        "cytoscape_alias_list" : [  "AgraQuest" ],
+        "node_fillColor" : "",
+        "Nature_of_Collaboration" : "Sales and Marketing agreement",
+        "Collaborator" : "AgraQuest",
+        "SUID" : "442",
+        "node_borderColor" : "",
+        "selected" : false,
+        "canonicalName" : "AgraQuest",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "AgraQuest",
+        "shared_name" : "AgraQuest"
+	}
+},{
+	"data" : {
+        "id" : "452",
+        "cytoscape_alias_list" : [  "Applied Math" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Applied Math",
+        "SUID" : "452",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Applied Math",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Applied Math",
+        "shared_name" : "Applied Math"
+	}
+},{
+	"data" : {
+        "id" : "462",
+        "cytoscape_alias_list" : [  "Caprotec bioanalytics GmbH " ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Caprotec bioanalytics GmbH ",
+        "SUID" : "462",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Caprotec bioanalytics GmbH ",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Caprotec bioanalytics GmbH ",
+        "shared_name" : "Caprotec bioanalytics GmbH "
+	}
+},{
+	"data" : {
+        "id" : "472",
+        "cytoscape_alias_list" : [  "Chemtura AgroSolutions" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Sales and Marketing agreement",
+        "Collaborator" : "Chemtura AgroSolutions",
+        "SUID" : "472",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Chemtura AgroSolutions",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Chemtura AgroSolutions",
+        "shared_name" : "Chemtura AgroSolutions"
+	}
+},{
+	"data" : {
+        "id" : "482",
+        "cytoscape_alias_list" : [  "DuPont" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Out-license",
+        "Collaborator" : "DuPont",
+        "SUID" : "482",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "DuPont",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "DuPont",
+        "shared_name" : "DuPont"
+	}
+},{
+	"data" : {
+        "id" : "492",
+        "cytoscape_alias_list" : [  "Fazenda Ana Paula" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "Out-license",
+        "Collaborator" : "Fazenda Ana Paula",
+        "SUID" : "492",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Fazenda Ana Paula",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Fazenda Ana Paula",
+        "shared_name" : "Fazenda Ana Paula"
+	}
+},{
+	"data" : {
+        "id" : "502",
+        "cytoscape_alias_list" : [  "Goiânia Investments and Holdings Limited (GIP)" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "Goiânia Investments and Holdings Limited (GIP)",
+        "SUID" : "502",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Goiânia Investments and Holdings Limited (GIP)",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Goiânia Investments and Holdings Limited (GIP)",
+        "shared_name" : "Goiânia Investments and Holdings Limited (GIP)"
+	}
+},{
+	"data" : {
+        "id" : "512",
+        "cytoscape_alias_list" : [  "Hornbeck Seed Company" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "Hornbeck Seed Company",
+        "SUID" : "512",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Hornbeck Seed Company",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Hornbeck Seed Company",
+        "shared_name" : "Hornbeck Seed Company"
+	}
+},{
+	"data" : {
+        "id" : "522",
+        "cytoscape_alias_list" : [  "Interfarm UK Ltd" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Sales and Marketing agreement",
+        "Collaborator" : "Interfarm UK Ltd",
+        "SUID" : "522",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Interfarm UK Ltd",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Interfarm UK Ltd",
+        "shared_name" : "Interfarm UK Ltd"
+	}
+},{
+	"data" : {
+        "id" : "532",
+        "cytoscape_alias_list" : [  "KeyGene" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "KeyGene",
+        "SUID" : "532",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "KeyGene",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "KeyGene",
+        "shared_name" : "KeyGene"
+	}
+},{
+	"data" : {
+        "id" : "542",
+        "cytoscape_alias_list" : [  "Koppert Biological Systems" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Sales and Marketing agreement",
+        "Collaborator" : "Koppert Biological Systems",
+        "SUID" : "542",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Koppert Biological Systems",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Koppert Biological Systems",
+        "shared_name" : "Koppert Biological Systems"
+	}
+},{
+	"data" : {
+        "id" : "552",
+        "cytoscape_alias_list" : [  "Monsanto" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Monsanto",
+        "SUID" : "552",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Monsanto",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Monsanto",
+        "shared_name" : "Monsanto"
+	}
+},{
+	"data" : {
+        "id" : "562",
+        "cytoscape_alias_list" : [  "NARDI, Romania" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "NARDI, Romania",
+        "SUID" : "562",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "NARDI, Romania",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "NARDI, Romania",
+        "shared_name" : "NARDI, Romania"
+	}
+},{
+	"data" : {
+        "id" : "572",
+        "cytoscape_alias_list" : [  "Performance Plants" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Performance Plants",
+        "SUID" : "572",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Performance Plants",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Performance Plants",
+        "shared_name" : "Performance Plants"
+	}
+},{
+	"data" : {
+        "id" : "582",
+        "cytoscape_alias_list" : [  "Population Genetics" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Population Genetics",
+        "SUID" : "582",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Population Genetics",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Population Genetics",
+        "shared_name" : "Population Genetics"
+	}
+},{
+	"data" : {
+        "id" : "592",
+        "cytoscape_alias_list" : [  "RAGT Semences" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "RAGT Semences",
+        "SUID" : "592",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "RAGT Semences",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "RAGT Semences",
+        "shared_name" : "RAGT Semences"
+	}
+},{
+	"data" : {
+        "id" : "602",
+        "cytoscape_alias_list" : [  "Raps GbR" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "Raps GbR",
+        "SUID" : "602",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Raps GbR",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Raps GbR",
+        "shared_name" : "Raps GbR"
+	}
+},{
+	"data" : {
+        "id" : "612",
+        "cytoscape_alias_list" : [  "South Dakota State Univ" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "South Dakota State Univ",
+        "SUID" : "612",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "South Dakota State Univ",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "South Dakota State Univ",
+        "shared_name" : "South Dakota State Univ"
+	}
+},{
+	"data" : {
+        "id" : "622",
+        "cytoscape_alias_list" : [  "Stoller Enterprises" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Stoller Enterprises",
+        "SUID" : "622",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Stoller Enterprises",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Stoller Enterprises",
+        "shared_name" : "Stoller Enterprises"
+	}
+},{
+	"data" : {
+        "id" : "632",
+        "cytoscape_alias_list" : [  "Syngenta" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Syngenta",
+        "SUID" : "632",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Syngenta",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Syngenta",
+        "shared_name" : "Syngenta"
+	}
+},{
+	"data" : {
+        "id" : "642",
+        "cytoscape_alias_list" : [  "VIB-U Gent" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "VIB-U Gent",
+        "SUID" : "642",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "VIB-U Gent",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "VIB-U Gent",
+        "shared_name" : "VIB-U Gent"
+	}
+},{
+	"data" : {
+        "id" : "652",
+        "cytoscape_alias_list" : [  "Divestment of Rovral® and Sportak® Fungicides business to FMC Corporation" ],
+        "node_fillColor" : "67,60,224",
+        "Nature_of_Collaboration" : "Divestment",
+        "Collaborator" : "Divestment of Rovral® and Sportak® Fungicides business to FMC Corporation",
+        "SUID" : "652",
+        "node_borderColor" : "67,60,224",
+        "selected" : false,
+        "canonicalName" : "Divestment of Rovral® and Sportak® Fungicides business to FMC Corporation",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Divestment of Rovral® and Sportak® Fungicides business to FMC Corporation",
+        "shared_name" : "Divestment of Rovral® and Sportak® Fungicides business to FMC Corporation"
+	}
+},{
+	"data" : {
+        "id" : "720",
+        "cytoscape_alias_list" : [  "Abbott & Cobb Inc" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "Abbott & Cobb Inc",
+        "SUID" : "720",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Abbott & Cobb Inc",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Abbott & Cobb Inc",
+        "shared_name" : "Abbott & Cobb Inc"
+	}
+},{
+	"data" : {
+        "id" : "730",
+        "cytoscape_alias_list" : [  "AgraQuest" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "AgraQuest",
+        "SUID" : "730",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "AgraQuest",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "AgraQuest",
+        "shared_name" : "AgraQuest"
+	}
+},{
+	"data" : {
+        "id" : "740",
+        "cytoscape_alias_list" : [  "Arysta LifeScience" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Arysta LifeScience",
+        "SUID" : "740",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Arysta LifeScience",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Arysta LifeScience",
+        "shared_name" : "Arysta LifeScience"
+	}
+},{
+	"data" : {
+        "id" : "750",
+        "cytoscape_alias_list" : [  "Cellectis" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Cellectis",
+        "SUID" : "750",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Cellectis",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Cellectis",
+        "shared_name" : "Cellectis"
+	}
+},{
+	"data" : {
+        "id" : "760",
+        "cytoscape_alias_list" : [  "CSIRO, GRDC" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "CSIRO, GRDC",
+        "SUID" : "760",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "CSIRO, GRDC",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "CSIRO, GRDC",
+        "shared_name" : "CSIRO, GRDC"
+	}
+},{
+	"data" : {
+        "id" : "770",
+        "cytoscape_alias_list" : [  "KWS SAAT AG" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "KWS SAAT AG",
+        "SUID" : "770",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "KWS SAAT AG",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "KWS SAAT AG",
+        "shared_name" : "KWS SAAT AG"
+	}
+},{
+	"data" : {
+        "id" : "780",
+        "cytoscape_alias_list" : [  "Mendel Biotechnology" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Mendel Biotechnology",
+        "SUID" : "780",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Mendel Biotechnology",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Mendel Biotechnology",
+        "shared_name" : "Mendel Biotechnology"
+	}
+},{
+	"data" : {
+        "id" : "790",
+        "cytoscape_alias_list" : [  "ProSoy Genetics" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "ProSoy Genetics",
+        "SUID" : "790",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "ProSoy Genetics",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "ProSoy Genetics",
+        "shared_name" : "ProSoy Genetics"
+	}
+},{
+	"data" : {
+        "id" : "800",
+        "cytoscape_alias_list" : [  "Q-Biologicals" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Q-Biologicals",
+        "SUID" : "800",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Q-Biologicals",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Q-Biologicals",
+        "shared_name" : "Q-Biologicals"
+	}
+},{
+	"data" : {
+        "id" : "810",
+        "cytoscape_alias_list" : [  "RAGT Semences" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition of wheat breeding station",
+        "Collaborator" : "RAGT Semences",
+        "SUID" : "810",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "RAGT Semences",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "RAGT Semences",
+        "shared_name" : "RAGT Semences"
+	}
+},{
+	"data" : {
+        "id" : "820",
+        "cytoscape_alias_list" : [  "Rosetta Green" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Rosetta Green",
+        "SUID" : "820",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Rosetta Green",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Rosetta Green",
+        "shared_name" : "Rosetta Green"
+	}
+},{
+	"data" : {
+        "id" : "830",
+        "cytoscape_alias_list" : [  "Texas AgriLife Research" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Texas AgriLife Research",
+        "SUID" : "830",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Texas AgriLife Research",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Texas AgriLife Research",
+        "shared_name" : "Texas AgriLife Research"
+	}
+},{
+	"data" : {
+        "id" : "840",
+        "cytoscape_alias_list" : [  "Two Blades Foundation" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Two Blades Foundation",
+        "SUID" : "840",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Two Blades Foundation",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Two Blades Foundation",
+        "shared_name" : "Two Blades Foundation"
+	}
+},{
+	"data" : {
+        "id" : "850",
+        "cytoscape_alias_list" : [  "Mendel Technology" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Mendel Technology",
+        "SUID" : "850",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Mendel Technology",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Mendel Technology",
+        "shared_name" : "Mendel Technology"
+	}
+},{
+	"data" : {
+        "id" : "909",
+        "cytoscape_alias_list" : [  "Plant Sensory Systems" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "Plant Sensory Systems",
+        "SUID" : "909",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Plant Sensory Systems",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Plant Sensory Systems",
+        "shared_name" : "Plant Sensory Systems"
+	}
+},{
+	"data" : {
+        "id" : "932",
+        "cytoscape_alias_list" : [  "Biotrigo Genetica (Passo Fundo)" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Biotrigo Genetica (Passo Fundo)",
+        "SUID" : "932",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Biotrigo Genetica (Passo Fundo)",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Biotrigo Genetica (Passo Fundo)",
+        "shared_name" : "Biotrigo Genetica (Passo Fundo)"
+	}
+},{
+	"data" : {
+        "id" : "942",
+        "cytoscape_alias_list" : [  "KeyGene" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "KeyGene",
+        "SUID" : "942",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "KeyGene",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "KeyGene",
+        "shared_name" : "KeyGene"
+	}
+},{
+	"data" : {
+        "id" : "952",
+        "cytoscape_alias_list" : [  "KeyGene" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "In-license",
+        "Collaborator" : "KeyGene",
+        "SUID" : "952",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "KeyGene",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "KeyGene",
+        "shared_name" : "KeyGene"
+	}
+},{
+	"data" : {
+        "id" : "962",
+        "cytoscape_alias_list" : [  "Monsanto" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Cross license",
+        "Collaborator" : "Monsanto",
+        "SUID" : "962",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Monsanto",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Monsanto",
+        "shared_name" : "Monsanto"
+	}
+},{
+	"data" : {
+        "id" : "972",
+        "cytoscape_alias_list" : [  "Nature Source Genetics" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Nature Source Genetics",
+        "SUID" : "972",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Nature Source Genetics",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Nature Source Genetics",
+        "shared_name" : "Nature Source Genetics"
+	}
+},{
+	"data" : {
+        "id" : "982",
+        "cytoscape_alias_list" : [  "Prophyta GmbH" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "Prophyta GmbH",
+        "SUID" : "982",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Prophyta GmbH",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Prophyta GmbH",
+        "shared_name" : "Prophyta GmbH"
+	}
+},{
+	"data" : {
+        "id" : "992",
+        "cytoscape_alias_list" : [  "FMC Corporation" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Out-license",
+        "Collaborator" : "FMC Corporation",
+        "SUID" : "992",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "FMC Corporation",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "FMC Corporation",
+        "shared_name" : "FMC Corporation"
+	}
+},{
+	"data" : {
+        "id" : "1002",
+        "cytoscape_alias_list" : [  "Caprotec bioanalytics GmbH " ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Caprotec bioanalytics GmbH ",
+        "SUID" : "1002",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Caprotec bioanalytics GmbH ",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Caprotec bioanalytics GmbH ",
+        "shared_name" : "Caprotec bioanalytics GmbH "
+	}
+},{
+	"data" : {
+        "id" : "1012",
+        "cytoscape_alias_list" : [  "Plant Impact plc" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Sales and Marketing agreement",
+        "Collaborator" : "Plant Impact plc",
+        "SUID" : "1012",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "Plant Impact plc",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Plant Impact plc",
+        "shared_name" : "Plant Impact plc"
+	}
+},{
+	"data" : {
+        "id" : "1052",
+        "cytoscape_alias_list" : [  "Kansas State University" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Kansas State University",
+        "SUID" : "1052",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Kansas State University",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Kansas State University",
+        "shared_name" : "Kansas State University"
+	}
+},{
+	"data" : {
+        "id" : "1063",
+        "cytoscape_alias_list" : [  "FN Semillas Argentina" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "FN Semillas Argentina",
+        "SUID" : "1063",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "FN Semillas Argentina",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "FN Semillas Argentina",
+        "shared_name" : "FN Semillas Argentina"
+	}
+},{
+	"data" : {
+        "id" : "1083",
+        "cytoscape_alias_list" : [  "Certain assets from Desnagrain" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "Certain assets from Desnagrain",
+        "SUID" : "1083",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Certain assets from Desnagrain",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Certain assets from Desnagrain",
+        "shared_name" : "Certain assets from Desnagrain"
+	}
+},{
+	"data" : {
+        "id" : "1096",
+        "cytoscape_alias_list" : [  "CITIC" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Co Development",
+        "Collaborator" : "CITIC",
+        "SUID" : "1096",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "CITIC",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "CITIC",
+        "shared_name" : "CITIC"
+	}
+},{
+	"data" : {
+        "id" : "1107",
+        "cytoscape_alias_list" : [  "IFC & Austria" ],
+        "node_fillColor" : "36,215,255",
+        "Nature_of_Collaboration" : "Business Agreement",
+        "Collaborator" : "IFC & Austria",
+        "SUID" : "1107",
+        "node_borderColor" : "36,215,255",
+        "selected" : false,
+        "canonicalName" : "IFC & Austria",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "IFC & Austria",
+        "shared_name" : "IFC & Austria"
+	}
+},{
+	"data" : {
+        "id" : "1117",
+        "cytoscape_alias_list" : [  "Fundecitrus" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Fundecitrus",
+        "SUID" : "1117",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Fundecitrus",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Fundecitrus",
+        "shared_name" : "Fundecitrus"
+	}
+},{
+	"data" : {
+        "id" : "1146",
+        "cytoscape_alias_list" : [  "Cellectis" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "Cellectis",
+        "SUID" : "1146",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "Cellectis",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Cellectis",
+        "shared_name" : "Cellectis"
+	}
+},{
+	"data" : {
+        "id" : "1159",
+        "cytoscape_alias_list" : [  "GreenLight BioSciences" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R&D",
+        "Collaborator" : "GreenLight BioSciences",
+        "SUID" : "1159",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "GreenLight BioSciences",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "GreenLight BioSciences",
+        "shared_name" : "GreenLight BioSciences"
+	}
+},{
+	"data" : {
+        "id" : "1170",
+        "cytoscape_alias_list" : [  "Biagro Group" ],
+        "node_fillColor" : "67,213,89",
+        "Nature_of_Collaboration" : "Acquisition",
+        "Collaborator" : "Biagro Group",
+        "SUID" : "1170",
+        "node_borderColor" : "67,213,89",
+        "selected" : false,
+        "canonicalName" : "Biagro Group",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "Biagro Group",
+        "shared_name" : "Biagro Group"
+	}
+},{
+	"data" : {
+        "id" : "1180",
+        "cytoscape_alias_list" : [  "John Deere" ],
+        "node_fillColor" : "217,211,157",
+        "Nature_of_Collaboration" : "R & D collaboration",
+        "Collaborator" : "John Deere",
+        "SUID" : "1180",
+        "node_borderColor" : "217,211,157",
+        "selected" : false,
+        "canonicalName" : "John Deere",
+        "node_labelPosition" : "W,E,c,0.00,0.00",
+        "name" : "John Deere",
+        "shared_name" : "John Deere"
+	}
+}],
+
+    "edges" : [ 
+{
+	"data" : {
+        "id" : "761",
+        "source" : "2",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) Biologicals",
+        "SUID" : "761",
+        "name" : "Bayer (PP) Biologicals",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) Biologicals"
+		}
+	},{
+	"data" : {
+        "id" : "763",
+        "source" : "3",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) Yield Traits",
+        "SUID" : "763",
+        "name" : "Bayer (PP) Yield Traits",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) Yield Traits"
+		}
+	},{
+	"data" : {
+        "id" : "765",
+        "source" : "4",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) Biofuels",
+        "SUID" : "765",
+        "name" : "Bayer (PP) Biofuels",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) Biofuels"
+		}
+	},{
+	"data" : {
+        "id" : "767",
+        "source" : "5",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) Quality Traits",
+        "SUID" : "767",
+        "name" : "Bayer (PP) Quality Traits",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) Quality Traits"
+		}
+	},{
+	"data" : {
+        "id" : "769",
+        "source" : "6",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) Ag Traits",
+        "SUID" : "769",
+        "name" : "Bayer (PP) Ag Traits",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) Ag Traits"
+		}
+	},{
+	"data" : {
+        "id" : "771",
+        "source" : "7",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) Breeding / Breeding Tech",
+        "SUID" : "771",
+        "name" : "Bayer (PP) Breeding / Breeding Tech",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) Breeding / Breeding Tech"
+		}
+	},{
+	"data" : {
+        "id" : "773",
+        "source" : "8",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) Enabling Tech",
+        "SUID" : "773",
+        "name" : "Bayer (PP) Enabling Tech",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) Enabling Tech"
+		}
+	},{
+	"data" : {
+        "id" : "775",
+        "source" : "9",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) Ag Chem",
+        "SUID" : "775",
+        "name" : "Bayer (PP) Ag Chem",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) Ag Chem"
+		}
+	},{
+	"data" : {
+        "id" : "777",
+        "source" : "10",
+        "target" : "1",
+        "selected" : false,
+        "canonicalName" : "Bayer (PP) IFS",
+        "SUID" : "777",
+        "name" : "Bayer (PP) IFS",
+        "interaction" : "PP",
+        "shared_interaction" : "PP",
+        "shared_name" : "Bayer (PP) IFS"
+		}
+	},{
+	"data" : {
+        "id" : "770",
+        "source" : "187",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "AgroGreen's Biologicals Business (DefaultEdge) Biologicals",
+        "SUID" : "770",
+        "name" : "AgroGreen's Biologicals Business (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "AgroGreen's Biologicals Business (DefaultEdge) Biologicals",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "772",
+        "source" : "197",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "BASF Plant Science (DefaultEdge) Yield Traits",
+        "SUID" : "772",
+        "name" : "BASF Plant Science (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "BASF Plant Science (DefaultEdge) Yield Traits",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "774",
+        "source" : "207",
+        "target" : "4",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Centro de Tecnologia Canavieira (CTC) (DefaultEdge) Biofuels",
+        "SUID" : "774",
+        "name" : "Centro de Tecnologia Canavieira (CTC) (DefaultEdge) Biofuels",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Centro de Tecnologia Canavieira (CTC) (DefaultEdge) Biofuels",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "776",
+        "source" : "217",
+        "target" : "5",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Chinese Oil Crops Research Institute (OCRI) (DefaultEdge) Quality Traits",
+        "SUID" : "776",
+        "name" : "Chinese Oil Crops Research Institute (OCRI) (DefaultEdge) Quality Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Chinese Oil Crops Research Institute (OCRI) (DefaultEdge) Quality Traits",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "778",
+        "source" : "227",
+        "target" : "6",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Chinese Oil Crops Research Institute (OCRI) (DefaultEdge) Ag Traits",
+        "SUID" : "778",
+        "name" : "Chinese Oil Crops Research Institute (OCRI) (DefaultEdge) Ag Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Chinese Oil Crops Research Institute (OCRI) (DefaultEdge) Ag Traits",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "780",
+        "source" : "237",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "CSIRO (DefaultEdge) Yield Traits",
+        "SUID" : "780",
+        "name" : "CSIRO (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "CSIRO (DefaultEdge) Yield Traits",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "782",
+        "source" : "247",
+        "target" : "6",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Dow AgroSciences (DefaultEdge) Ag Traits",
+        "SUID" : "782",
+        "name" : "Dow AgroSciences (DefaultEdge) Ag Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Dow AgroSciences (DefaultEdge) Ag Traits",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "784",
+        "source" : "257",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "EuroSort (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "784",
+        "name" : "EuroSort (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "EuroSort (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "786",
+        "source" : "267",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Evogene (DefaultEdge) Yield Traits",
+        "SUID" : "786",
+        "name" : "Evogene (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Evogene (DefaultEdge) Yield Traits",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "788",
+        "source" : "277",
+        "target" : "",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Evogene (DefaultEdge) ",
+        "SUID" : "788",
+        "name" : "Evogene (DefaultEdge) ",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Evogene (DefaultEdge) ",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "790",
+        "source" : "287",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Exosect's Biologicals Business (DefaultEdge) Biologicals",
+        "SUID" : "790",
+        "name" : "Exosect's Biologicals Business (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Exosect's Biologicals Business (DefaultEdge) Biologicals",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "792",
+        "source" : "297",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Fluidigm (DefaultEdge) Enabling Tech",
+        "SUID" : "792",
+        "name" : "Fluidigm (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Fluidigm (DefaultEdge) Enabling Tech",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "794",
+        "source" : "307",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Heads Up Plant Protectants Inc (DefaultEdge) Biologicals",
+        "SUID" : "794",
+        "name" : "Heads Up Plant Protectants Inc (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Heads Up Plant Protectants Inc (DefaultEdge) Biologicals",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "796",
+        "source" : "317",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Monsanto (DefaultEdge) Biologicals",
+        "SUID" : "796",
+        "name" : "Monsanto (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Monsanto (DefaultEdge) Biologicals",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "798",
+        "source" : "327",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Precision Bioscience (DefaultEdge) Enabling Tech",
+        "SUID" : "798",
+        "name" : "Precision Bioscience (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Precision Bioscience (DefaultEdge) Enabling Tech",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "800",
+        "source" : "337",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Sort (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "800",
+        "name" : "Sort (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Sort (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "802",
+        "source" : "347",
+        "target" : "6",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Syngenta (DefaultEdge) Ag Traits",
+        "SUID" : "802",
+        "name" : "Syngenta (DefaultEdge) Ag Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Syngenta (DefaultEdge) Ag Traits",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "804",
+        "source" : "357",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Univ. of Nebraska-Lincoln (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "804",
+        "name" : "Univ. of Nebraska-Lincoln (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Univ. of Nebraska-Lincoln (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2010"
+		}
+	},{
+	"data" : {
+        "id" : "806",
+        "source" : "432",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "AgraQuest (DefaultEdge) Biologicals",
+        "SUID" : "806",
+        "name" : "AgraQuest (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "AgraQuest (DefaultEdge) Biologicals",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "808",
+        "source" : "442",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "AgraQuest (DefaultEdge) Biologicals",
+        "SUID" : "808",
+        "name" : "AgraQuest (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "AgraQuest (DefaultEdge) Biologicals",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "810",
+        "source" : "452",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Applied Math (DefaultEdge) Enabling Tech",
+        "SUID" : "810",
+        "name" : "Applied Math (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Applied Math (DefaultEdge) Enabling Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "812",
+        "source" : "462",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Caprotec bioanalytics GmbH  (DefaultEdge) Enabling Tech",
+        "SUID" : "812",
+        "name" : "Caprotec bioanalytics GmbH  (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Caprotec bioanalytics GmbH  (DefaultEdge) Enabling Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "814",
+        "source" : "472",
+        "target" : "9",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Chemtura AgroSolutions (DefaultEdge) Ag Chem",
+        "SUID" : "814",
+        "name" : "Chemtura AgroSolutions (DefaultEdge) Ag Chem",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Chemtura AgroSolutions (DefaultEdge) Ag Chem",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "816",
+        "source" : "482",
+        "target" : "6",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "DuPont (DefaultEdge) Ag Traits",
+        "SUID" : "816",
+        "name" : "DuPont (DefaultEdge) Ag Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "DuPont (DefaultEdge) Ag Traits",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "818",
+        "source" : "492",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Fazenda Ana Paula (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "818",
+        "name" : "Fazenda Ana Paula (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Fazenda Ana Paula (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "820",
+        "source" : "502",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Goiânia Investments and Holdings Limited (GIP) (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "820",
+        "name" : "Goiânia Investments and Holdings Limited (GIP) (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Goiânia Investments and Holdings Limited (GIP) (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "822",
+        "source" : "512",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Hornbeck Seed Company (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "822",
+        "name" : "Hornbeck Seed Company (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Hornbeck Seed Company (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "824",
+        "source" : "522",
+        "target" : "9",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Interfarm UK Ltd (DefaultEdge) Ag Chem",
+        "SUID" : "824",
+        "name" : "Interfarm UK Ltd (DefaultEdge) Ag Chem",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Interfarm UK Ltd (DefaultEdge) Ag Chem",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "826",
+        "source" : "532",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "KeyGene (DefaultEdge) Enabling Tech",
+        "SUID" : "826",
+        "name" : "KeyGene (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "KeyGene (DefaultEdge) Enabling Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "828",
+        "source" : "542",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Koppert Biological Systems (DefaultEdge) Biologicals",
+        "SUID" : "828",
+        "name" : "Koppert Biological Systems (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Koppert Biological Systems (DefaultEdge) Biologicals",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "830",
+        "source" : "552",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Monsanto (DefaultEdge) Biologicals",
+        "SUID" : "830",
+        "name" : "Monsanto (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Monsanto (DefaultEdge) Biologicals",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "832",
+        "source" : "562",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "NARDI, Romania (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "832",
+        "name" : "NARDI, Romania (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "NARDI, Romania (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "834",
+        "source" : "572",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Performance Plants (DefaultEdge) Yield Traits",
+        "SUID" : "834",
+        "name" : "Performance Plants (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Performance Plants (DefaultEdge) Yield Traits",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "836",
+        "source" : "582",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Population Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "836",
+        "name" : "Population Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Population Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "838",
+        "source" : "592",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "RAGT Semences (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "838",
+        "name" : "RAGT Semences (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "RAGT Semences (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "840",
+        "source" : "602",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Raps GbR (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "840",
+        "name" : "Raps GbR (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Raps GbR (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "842",
+        "source" : "612",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "South Dakota State Univ (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "842",
+        "name" : "South Dakota State Univ (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "South Dakota State Univ (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "844",
+        "source" : "622",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Stoller Enterprises (DefaultEdge) Biologicals",
+        "SUID" : "844",
+        "name" : "Stoller Enterprises (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Stoller Enterprises (DefaultEdge) Biologicals",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "846",
+        "source" : "632",
+        "target" : "6",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Syngenta (DefaultEdge) Ag Traits",
+        "SUID" : "846",
+        "name" : "Syngenta (DefaultEdge) Ag Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Syngenta (DefaultEdge) Ag Traits",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "848",
+        "source" : "642",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "VIB-U Gent (DefaultEdge) Yield Traits",
+        "SUID" : "848",
+        "name" : "VIB-U Gent (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "VIB-U Gent (DefaultEdge) Yield Traits",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "850",
+        "source" : "652",
+        "target" : "9",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Divestment of Rovral® and Sportak® Fungicides business to FMC Corporation (DefaultEdge) Ag Chem",
+        "SUID" : "850",
+        "name" : "Divestment of Rovral® and Sportak® Fungicides business to FMC Corporation (DefaultEdge) Ag Chem",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Divestment of Rovral® and Sportak® Fungicides business to FMC Corporation (DefaultEdge) Ag Chem",
+        "edge_label" : "2011"
+		}
+	},{
+	"data" : {
+        "id" : "852",
+        "source" : "720",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Abbott & Cobb Inc (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "852",
+        "name" : "Abbott & Cobb Inc (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Abbott & Cobb Inc (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "854",
+        "source" : "730",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "AgraQuest (DefaultEdge) Biologicals",
+        "SUID" : "854",
+        "name" : "AgraQuest (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "AgraQuest (DefaultEdge) Biologicals",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "856",
+        "source" : "740",
+        "target" : "9",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Arysta LifeScience (DefaultEdge) Ag Chem",
+        "SUID" : "856",
+        "name" : "Arysta LifeScience (DefaultEdge) Ag Chem",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Arysta LifeScience (DefaultEdge) Ag Chem",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "858",
+        "source" : "750",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Cellectis (DefaultEdge) Enabling Tech",
+        "SUID" : "858",
+        "name" : "Cellectis (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Cellectis (DefaultEdge) Enabling Tech",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "860",
+        "source" : "760",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "CSIRO, GRDC (DefaultEdge) Yield Traits",
+        "SUID" : "860",
+        "name" : "CSIRO, GRDC (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "CSIRO, GRDC (DefaultEdge) Yield Traits",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "862",
+        "source" : "770",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "KWS SAAT AG (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "862",
+        "name" : "KWS SAAT AG (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "KWS SAAT AG (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "864",
+        "source" : "780",
+        "target" : "9",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Mendel Biotechnology (DefaultEdge) Ag Chem",
+        "SUID" : "864",
+        "name" : "Mendel Biotechnology (DefaultEdge) Ag Chem",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Mendel Biotechnology (DefaultEdge) Ag Chem",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "866",
+        "source" : "790",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "ProSoy Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "866",
+        "name" : "ProSoy Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "ProSoy Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "868",
+        "source" : "800",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Q-Biologicals (DefaultEdge) Enabling Tech",
+        "SUID" : "868",
+        "name" : "Q-Biologicals (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Q-Biologicals (DefaultEdge) Enabling Tech",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "870",
+        "source" : "810",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "RAGT Semences (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "870",
+        "name" : "RAGT Semences (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "RAGT Semences (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "872",
+        "source" : "820",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Rosetta Green (DefaultEdge) Yield Traits",
+        "SUID" : "872",
+        "name" : "Rosetta Green (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Rosetta Green (DefaultEdge) Yield Traits",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "874",
+        "source" : "830",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Texas AgriLife Research (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "874",
+        "name" : "Texas AgriLife Research (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Texas AgriLife Research (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "876",
+        "source" : "840",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Two Blades Foundation (DefaultEdge) Enabling Tech",
+        "SUID" : "876",
+        "name" : "Two Blades Foundation (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Two Blades Foundation (DefaultEdge) Enabling Tech",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "878",
+        "source" : "850",
+        "target" : "6",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Mendel Technology (DefaultEdge) Ag Traits",
+        "SUID" : "878",
+        "name" : "Mendel Technology (DefaultEdge) Ag Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Mendel Technology (DefaultEdge) Ag Traits",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "880",
+        "source" : "909",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Plant Sensory Systems (DefaultEdge) Yield Traits",
+        "SUID" : "880",
+        "name" : "Plant Sensory Systems (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Plant Sensory Systems (DefaultEdge) Yield Traits",
+        "edge_label" : "2012"
+		}
+	},{
+	"data" : {
+        "id" : "882",
+        "source" : "932",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Biotrigo Genetica (Passo Fundo) (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "882",
+        "name" : "Biotrigo Genetica (Passo Fundo) (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Biotrigo Genetica (Passo Fundo) (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "884",
+        "source" : "942",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "KeyGene (DefaultEdge) Enabling Tech",
+        "SUID" : "884",
+        "name" : "KeyGene (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "KeyGene (DefaultEdge) Enabling Tech",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "886",
+        "source" : "952",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "KeyGene (DefaultEdge) Yield Traits",
+        "SUID" : "886",
+        "name" : "KeyGene (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "KeyGene (DefaultEdge) Yield Traits",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "888",
+        "source" : "962",
+        "target" : "6",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Monsanto (DefaultEdge) Ag Traits",
+        "SUID" : "888",
+        "name" : "Monsanto (DefaultEdge) Ag Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Monsanto (DefaultEdge) Ag Traits",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "890",
+        "source" : "972",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Nature Source Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "890",
+        "name" : "Nature Source Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Nature Source Genetics (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "892",
+        "source" : "982",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Prophyta GmbH (DefaultEdge) Biologicals",
+        "SUID" : "892",
+        "name" : "Prophyta GmbH (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Prophyta GmbH (DefaultEdge) Biologicals",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "894",
+        "source" : "992",
+        "target" : "9",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "FMC Corporation (DefaultEdge) Ag Chem",
+        "SUID" : "894",
+        "name" : "FMC Corporation (DefaultEdge) Ag Chem",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "FMC Corporation (DefaultEdge) Ag Chem",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "896",
+        "source" : "1002",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Caprotec bioanalytics GmbH  (DefaultEdge) Enabling Tech",
+        "SUID" : "896",
+        "name" : "Caprotec bioanalytics GmbH  (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Caprotec bioanalytics GmbH  (DefaultEdge) Enabling Tech",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "898",
+        "source" : "1012",
+        "target" : "9",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Plant Impact plc (DefaultEdge) Ag Chem",
+        "SUID" : "898",
+        "name" : "Plant Impact plc (DefaultEdge) Ag Chem",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Plant Impact plc (DefaultEdge) Ag Chem",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "900",
+        "source" : "1052",
+        "target" : "3",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Kansas State University (DefaultEdge) Yield Traits",
+        "SUID" : "900",
+        "name" : "Kansas State University (DefaultEdge) Yield Traits",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Kansas State University (DefaultEdge) Yield Traits",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "902",
+        "source" : "1063",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "FN Semillas Argentina (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "902",
+        "name" : "FN Semillas Argentina (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "FN Semillas Argentina (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "904",
+        "source" : "1083",
+        "target" : "7",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Certain assets from Desnagrain (DefaultEdge) Breeding / Breeding Tech",
+        "SUID" : "904",
+        "name" : "Certain assets from Desnagrain (DefaultEdge) Breeding / Breeding Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Certain assets from Desnagrain (DefaultEdge) Breeding / Breeding Tech",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "906",
+        "source" : "1096",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "CITIC (DefaultEdge) Enabling Tech",
+        "SUID" : "906",
+        "name" : "CITIC (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "CITIC (DefaultEdge) Enabling Tech",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "908",
+        "source" : "1107",
+        "target" : "10",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "IFC & Austria (DefaultEdge) IFS",
+        "SUID" : "908",
+        "name" : "IFC & Austria (DefaultEdge) IFS",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "IFC & Austria (DefaultEdge) IFS",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "910",
+        "source" : "1117",
+        "target" : "9",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Fundecitrus (DefaultEdge) Ag Chem",
+        "SUID" : "910",
+        "name" : "Fundecitrus (DefaultEdge) Ag Chem",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Fundecitrus (DefaultEdge) Ag Chem",
+        "edge_label" : "2013"
+		}
+	},{
+	"data" : {
+        "id" : "912",
+        "source" : "1146",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Cellectis (DefaultEdge) Enabling Tech",
+        "SUID" : "912",
+        "name" : "Cellectis (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Cellectis (DefaultEdge) Enabling Tech",
+        "edge_label" : "2014"
+		}
+	},{
+	"data" : {
+        "id" : "914",
+        "source" : "1159",
+        "target" : "8",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "GreenLight BioSciences (DefaultEdge) Enabling Tech",
+        "SUID" : "914",
+        "name" : "GreenLight BioSciences (DefaultEdge) Enabling Tech",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "GreenLight BioSciences (DefaultEdge) Enabling Tech",
+        "edge_label" : "2014"
+		}
+	},{
+	"data" : {
+        "id" : "916",
+        "source" : "1170",
+        "target" : "2",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "Biagro Group (DefaultEdge) Biologicals",
+        "SUID" : "916",
+        "name" : "Biagro Group (DefaultEdge) Biologicals",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "Biagro Group (DefaultEdge) Biologicals",
+        "edge_label" : "2014"
+		}
+	},{
+	"data" : {
+        "id" : "918",
+        "source" : "1180",
+        "target" : "10",
+        "edge_fontSize" : "14.0",
+        "selected" : false,
+        "canonicalName" : "John Deere (DefaultEdge) IFS",
+        "SUID" : "918",
+        "name" : "John Deere (DefaultEdge) IFS",
+        "interaction" : "DefaultEdge",
+        "shared_interaction" : "DefaultEdge",
+        "shared_name" : "John Deere (DefaultEdge) IFS",
+        "edge_label" : "2014"
+		}
+	}]
+
+}
+}

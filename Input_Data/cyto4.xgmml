@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="Union" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML"  directed="1">
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2014-03-30 01:46:39</dc:date>
+        <dc:title>Union</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ffffff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="0.7822052925967306"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="341.6669692993164"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="390.6387941837311"/>
+  <att type="boolean" name="NODE_SIZE_LOCKED" value="true"/>
+  <att type="string" name="__layoutAlgorithm" value="grid" cy:hidden="true" cy:editable="false"/>
+  <node label="Bayer" id="-9">
+    <att type="string" name="canonicalName" value="Bayer"/>
+    <att type="string" name="node.borderColor" value="204,0,0"/>
+    <att type="string" name="node.fillColor" value="255,204,0"/>
+    <att type="string" name="node.fontSize" value="25.0"/>
+    <att type="string" name="node.size" value="90.0"/>
+    <graphics type="ELLIPSE" h="90.0" w="90.0" x="328.2191162109375" y="332.6260986328125" fill="#ffcc00" width="2" outline="#cc0000" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif-0-25" cy:nodeLabel="Bayer" cy:borderLineType="solid"/>
+  </node>
+</graph>
